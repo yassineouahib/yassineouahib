@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ouahib Yassine</h1>
 <h3 align="center">In the realm of data science, the art of storytelling weaves intricate narratives from complex datasets, revealing the hidden tales of numbers and patterns that shape our understanding of the world.</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ecf95a9bf06bd8619a1618d7d9dc64c3/tumblr_pyxhukozrf1wl2q68o1_500.gifv">
-- 🔭 I’m currently working on **several school projects that revolve around data and machine learning**
 
 
-- 🤝 I'm currently seeking **an internship opportunity for my final course project**
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/yassineouahib](https://github.com/yassineouahib)
 
